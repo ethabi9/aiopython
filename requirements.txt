@@ -16,7 +16,6 @@ cytoolz==0.11.0
 eth_account
 eth_accounts
 eth_keyfile
-idna
 typing_extensions
 yarl==1.7.0
 web3
